@@ -1,0 +1,14 @@
+C:\Users\abeer\source\repos\Labs\Lab10.5\Lab2NumberAnalyzer\Lab2NumberAnalyzer\bin\Debug\netcoreapp3.1\Lab2NumberAnalyzer.exe
+C:\Users\abeer\source\repos\Labs\Lab10.5\Lab2NumberAnalyzer\Lab2NumberAnalyzer\bin\Debug\netcoreapp3.1\Lab2NumberAnalyzer.deps.json
+C:\Users\abeer\source\repos\Labs\Lab10.5\Lab2NumberAnalyzer\Lab2NumberAnalyzer\bin\Debug\netcoreapp3.1\Lab2NumberAnalyzer.runtimeconfig.json
+C:\Users\abeer\source\repos\Labs\Lab10.5\Lab2NumberAnalyzer\Lab2NumberAnalyzer\bin\Debug\netcoreapp3.1\Lab2NumberAnalyzer.runtimeconfig.dev.json
+C:\Users\abeer\source\repos\Labs\Lab10.5\Lab2NumberAnalyzer\Lab2NumberAnalyzer\bin\Debug\netcoreapp3.1\Lab2NumberAnalyzer.dll
+C:\Users\abeer\source\repos\Labs\Lab10.5\Lab2NumberAnalyzer\Lab2NumberAnalyzer\bin\Debug\netcoreapp3.1\Lab2NumberAnalyzer.pdb
+C:\Users\abeer\source\repos\Labs\Lab10.5\Lab2NumberAnalyzer\Lab2NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abeer\source\repos\Labs\Lab10.5\Lab2NumberAnalyzer\Lab2NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer.AssemblyInfoInputs.cache
+C:\Users\abeer\source\repos\Labs\Lab10.5\Lab2NumberAnalyzer\Lab2NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer.AssemblyInfo.cs
+C:\Users\abeer\source\repos\Labs\Lab10.5\Lab2NumberAnalyzer\Lab2NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\abeer\source\repos\Labs\Lab10.5\Lab2NumberAnalyzer\Lab2NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer.dll
+C:\Users\abeer\source\repos\Labs\Lab10.5\Lab2NumberAnalyzer\Lab2NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer.pdb
+C:\Users\abeer\source\repos\Labs\Lab10.5\Lab2NumberAnalyzer\Lab2NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer.genruntimeconfig.cache
+C:\Users\abeer\source\repos\Labs\Lab10.5\Lab2NumberAnalyzer\Lab2NumberAnalyzer\obj\Debug\netcoreapp3.1\Lab2NumberAnalyzer.csproj.AssemblyReference.cache

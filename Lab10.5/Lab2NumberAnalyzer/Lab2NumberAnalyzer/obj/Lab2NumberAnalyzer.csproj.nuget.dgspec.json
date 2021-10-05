@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abeer\\source\\repos\\Labs\\Lab10.4\\Lab10.4.csproj": {}
+    "C:\\Users\\abeer\\source\\repos\\Labs\\Lab10.5\\Lab2NumberAnalyzer\\Lab2NumberAnalyzer\\Lab2NumberAnalyzer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abeer\\source\\repos\\Labs\\Lab10.4\\Lab10.4.csproj": {
+    "C:\\Users\\abeer\\source\\repos\\Labs\\Lab10.5\\Lab2NumberAnalyzer\\Lab2NumberAnalyzer\\Lab2NumberAnalyzer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abeer\\source\\repos\\Labs\\Lab10.4\\Lab10.4.csproj",
-        "projectName": "Lab10.4",
-        "projectPath": "C:\\Users\\abeer\\source\\repos\\Labs\\Lab10.4\\Lab10.4.csproj",
+        "projectUniqueName": "C:\\Users\\abeer\\source\\repos\\Labs\\Lab10.5\\Lab2NumberAnalyzer\\Lab2NumberAnalyzer\\Lab2NumberAnalyzer.csproj",
+        "projectName": "Lab2NumberAnalyzer",
+        "projectPath": "C:\\Users\\abeer\\source\\repos\\Labs\\Lab10.5\\Lab2NumberAnalyzer\\Lab2NumberAnalyzer\\Lab2NumberAnalyzer.csproj",
         "packagesPath": "C:\\Users\\abeer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abeer\\source\\repos\\Labs\\Lab10.4\\obj\\",
+        "outputPath": "C:\\Users\\abeer\\source\\repos\\Labs\\Lab10.5\\Lab2NumberAnalyzer\\Lab2NumberAnalyzer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abeer\\AppData\\Roaming\\NuGet\\NuGet.Config",
